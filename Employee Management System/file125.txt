@@ -1,0 +1,7 @@
+Employee ID:125
+Employee Name     :gangadhr
+Father's Name     :venkatesh
+Employee Contact  :79899999
+Email Information :gana08@gmail.com
+Employee position :lead
+Employee Salary   :200000

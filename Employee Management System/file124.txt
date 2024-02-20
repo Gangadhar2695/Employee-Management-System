@@ -1,0 +1,7 @@
+Employee ID:124
+Employee Name     :Gangadhar
+Father's Name     :Venkateswara rao
+Employee Contact  :7989992024
+Email Information :ganga09@gmai.com
+Employee position :leda
+Employee Salary   :10k
